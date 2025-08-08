@@ -40,16 +40,10 @@ smpl_files
 
 We take the subject `seattle` for example. 
 
-### Evaluation
+### Evaluation and Rendering novel pose
 
 ```
-python eval.py -s $gs_data_path/m4c_processed -m output/m4c_processed --epoch 200
-```
-
-### Rendering novel pose
-
-```
-python render_novel_pose.py -s $gs_data_path/m4c_processed -m output/m4c_processed --epoch 200
+./run_stage1.sh
 ```
 
 ## Run on Your Own Video
