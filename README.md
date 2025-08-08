@@ -72,8 +72,8 @@ python gen_pose_map_cano_smpl.py
 ## Todo
 
 - [x] Release the inference codes.
-- [] Release the training codes.
-- [] Release the reorganized data. 
+- [ ] Release the training codes.
+- [ ] Release the reorganized data. 
 
 
 
